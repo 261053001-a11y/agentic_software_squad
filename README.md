@@ -1,4 +1,5 @@
 # 📊 Dashboard Analisis Operasional Penjualan
+link Demo : https://agenticsoftwaresquad-7eesb6bwfffy6bzrrnhbzr.streamlit.app/
 
 > **Bedah Kasus 1: Visualisasi & Data Analytics (1.000 Transaksi)**  
 > **Nama:** Hudzaifah Aini  
